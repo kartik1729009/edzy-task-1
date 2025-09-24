@@ -1,0 +1,9 @@
+{
+	"id": "MwqPHV2bCqBD1sD",
+	"json": "{\"id\":\"MwqPHV2bCqBD1sD\",\"url\":\"https://www.edzy.ai/blog\",\"loadedUrl\":\"https://www.edzy.ai/blog\",\"uniqueKey\":\"https://www.edzy.ai/blog\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-09-24T06:22:05.800Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.edzy.ai/blog",
+	"url": "https://www.edzy.ai/blog"
+}

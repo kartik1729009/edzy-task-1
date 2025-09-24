@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/connect.ts","./src/controller/crawler.ts","./src/controller/pagecontroller.ts","./src/models/schema.ts","./src/routes/pageroutes.ts"],"version":"5.8.3"}

@@ -1,0 +1,9 @@
+{
+	"id": "k1ZKtdsR4ag12cW",
+	"json": "{\"id\":\"k1ZKtdsR4ag12cW\",\"url\":\"https://www.edzy.ai/buy\",\"loadedUrl\":\"https://www.edzy.ai/buy\",\"uniqueKey\":\"https://www.edzy.ai/buy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-09-24T06:22:05.451Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.edzy.ai/buy",
+	"url": "https://www.edzy.ai/buy"
+}

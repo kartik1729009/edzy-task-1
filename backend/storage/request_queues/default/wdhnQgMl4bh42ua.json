@@ -1,0 +1,9 @@
+{
+	"id": "wdhnQgMl4bh42ua",
+	"json": "{\"id\":\"wdhnQgMl4bh42ua\",\"url\":\"https://www.edzy.ai/about\",\"loadedUrl\":\"https://www.edzy.ai/about\",\"uniqueKey\":\"https://www.edzy.ai/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-09-24T06:21:59.919Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.edzy.ai/about",
+	"url": "https://www.edzy.ai/about"
+}
